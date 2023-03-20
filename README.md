@@ -1,16 +1,32 @@
-### Hi there 👋
+# Levy-Ramiro
 
-<!--
-**Ramyroh/Ramyroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Levy e sou estudante de programação com foco em Full-Stack!!!
 
-Here are some ideas to get you started:
+```
+Jr Developer
+```
+ </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display:flex;align-items:center;">
+<img src = "https://github-readme-stats.vercel.app/api?username=JuniorEliass&show_icons=true&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorEliass&layout=compact&theme=onedark">
+ </div>
+
+ </br>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth="50" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="50" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" heigth="50" align="center"/>
+ </div>  
+ </br>
+ <h2> Contatos </h2>
+ <div>
+   <a href="https://www.linkedin.com/in/levy-ramiro-b43448267/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
+ </div>
+
+ </br>
+
+![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg) 
