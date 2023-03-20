@@ -8,8 +8,8 @@ Jr Developer
  </br>
 
 <div style = "display:flex;align-items:center;">
-<img src = "https://github-readme-stats.vercel.app/api?username=JuniorEliass&show_icons=true&theme=onedark">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorEliass&layout=compact&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api?username=Ramyroh&show_icons=true&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyroh&layout=compact&theme=onedark">
  </div>
 
  </br>
